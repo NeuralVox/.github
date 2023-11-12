@@ -17,6 +17,12 @@ We are supporting the [VoiceFixer 2](https://voicefixer.github.io/) project.
 
 Sorry! We don't have enough audiobooks so the cost of hosting the catalog isn't worth it. We need **COMPUTE.**
 
+**But will you at least release the code?** Not until we host it. Still in early beta.
+
+## What will the license of the code be?
+
+We are still deciding. We are ![Anti GPL](https://img.shields.io/badge/Anti-GPL-red).
+
 ## How Can I Help?
 
 ### Do you have access to COMPUTE?
