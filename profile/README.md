@@ -9,6 +9,10 @@ We currently have MVPs of the following programs (in private repos):
 
 Example of The Raven by Edgar Allan Poe read by TTS: [Listen](https://www.mrfake.name/raven.mp3)
 
+## VoiceFixer 2
+
+We are supporting the [VoiceFixer 2](https://voicefixer.github.io/) project.
+
 ## Wait... Where's the catalog?
 
 Sorry! We don't have enough audiobooks so the cost of hosting the catalog isn't worth it. We need **COMPUTE.**
