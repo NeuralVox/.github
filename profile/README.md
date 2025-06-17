@@ -23,6 +23,7 @@ This project is in **active development** and is not yet ready for public deploy
 ## 📬 Get Involved
 
 * Join the **[waitlist](https://forms.gle/HA4dvRB9nz2G1s2LA)** for early access
+* Discuss on the [Discord server](https://discord.gg/EjcHu4T7YU)
 * Follow [@neuralvox](https://x.com/neuralvox) for updates
 * Star or watch repos to track releases
 * Contributions welcome once repos are public
